@@ -1,0 +1,3 @@
+﻿http://www.carsales.com.au/|//*[@class='nav-top-level site']//a
+http://www.carsales.com.au/cars/results/|//*[@class='result-set-container']//a
+http://www.carsales.com.au/bncis/details/Daewoo-BH117-2014/OAG-AD-1710062/?Cr=1|//*[@class='layout-body']//a
